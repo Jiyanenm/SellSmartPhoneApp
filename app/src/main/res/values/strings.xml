@@ -1,0 +1,138 @@
+<resources>
+    <string name="app_name">JADE App</string>
+    <string name="Home">Timeline</string>
+    <string name="Buy">Profile</string>
+
+
+    <string name="buyerName">Full Name</string>
+    <string name="buyerEmail">Email</string>
+    <string name="btnClear">Clear</string>
+    <string name="CellPhonetype">Select Smart Phone</string>
+    <string name="feedbacktypelist">Email</string>
+    <string name="comments">Enter Comments</string>
+    <string name="buyerbackresponse">Responses</string>
+    <string name="buyerbutton">Buy</string>
+    <string name="title">Enter Details To Buy SmartPhone</string>
+
+
+    <!--Other string resources also defined in this file… -->
+    <string name="SmartPhone1">Samsung</string>
+    <string name="SmartPhone2">Nokia</string>
+    <string name="SmartPhone3">Iphone</string>
+    <string name="SmartPhone4">LG</string>
+    <string name="SmartPhone5">Huawei</string>
+    <string name="SmartPhone6">Sansui</string>
+    <string name="SmartPhone7">Erricson</string>
+    <string name="SmartPhone8">VodaPhone</string>
+
+
+    <string-array name="smartphonelist">
+        <item>@string/SmartPhone1</item>
+        <item>@string/SmartPhone2</item>
+        <item>@string/SmartPhone3</item>
+        <item>@string/SmartPhone4</item>
+        <item>@string/SmartPhone5</item>
+        <item>@string/SmartPhone6</item>
+        <item>@string/SmartPhone7</item>
+        <item>@string/SmartPhone8</item>
+    </string-array>
+
+    <string name="spinner_title">Select Category</string>
+    <string name="BookMe">BookMe</string>
+    <string name="RememberME">Remember ME...</string>
+    <string name="title_activity_my_profile">MyProfileActivity</string>
+    <string name="hint_email">Enter Email</string>
+    <string name="err_msg_email">Enter valid email address</string>
+    <string name="err_msg_password">Enter the password</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_login">Sign in</string>
+
+    <!-- Strings related to login -->
+    <string name="prompt_email">Email</string>
+    <string name="prompt_password">Password (optional)</string>
+    <string name="action_sign_in">Sign in or register</string>
+    <string name="action_sign_in_short">Sign in</string>
+    <string name="error_invalid_email">This email address is invalid</string>
+    <string name="error_invalid_password">This password is too short</string>
+    <string name="error_incorrect_password">This password is incorrect</string>
+    <string name="error_field_required">This field is required</string>
+    <string name="permission_rationale">"Contacts permissions are needed for providing email
+        completions."
+    </string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+
+    <string name="title_activity_welcome">Home Screen</string>
+    <string name="next">NEXT</string>
+    <string name="skip">SKIP</string>
+    <string name="start">GOT IT</string>
+
+    <string name="slide_1_title">About "Find Artist App"</string>
+    <string name="slide_1_desc">The easiest way get Updates,Events and book your local and International Artist</string>
+
+    <string name="slide_2_title">Timeline</string>
+    <string name="slide_2_desc">Stay updated with your artist and events happening everywhere</string>
+
+    <string name="slide_3_title">Events</string>
+    <string name="slide_3_desc">Get latest Gigs of your favourite Artists and Locations</string>
+
+    <string name="slide_4_title">Bookings</string>
+    <string name="slide_4_desc">Book your local and International Artist for your events</string>
+
+    <string name="slide_5_title">Adverts</string>
+    <string name="slide_5_desc">Advertise your products on Find Artist App,Contact Admins(nmjiyane1@gmail.com)</string>
+
+    <string name="play_again_desc">To see the welcome slider again, goto Settings -> apps -> welcome slider -> clear data</string>
+    <string name="play_again">Find Your DJ Again!</string>
+    <string name="title_activity_customized_list_view">CustomizedListView</string>
+
+    <string name="hint_name">Enter name</string>
+    <string name="hint_surname">Enter Surname</string>
+    <string name="hint_houseno">Enter House No</string>
+    <string name="hint_streetName">Enter Street Name</string>
+    <string name="hint_suburb">Enter Suburb</string>
+    <string name="hint_city">Enter City Name</string>
+
+
+    <string name="hintTimelineTopic">Timeline Topic</string>
+    <string name="hintTimelineDetails">Share Your Timeline</string>
+
+
+    <string name="hintPassword">Password</string>
+    <string name="hintConfirmPassword">Confirm Password</string>
+    <string name="hint_ContactNo">Contact Numbers</string>
+    <string name="hint_ArtistFullname">Full Names</string>
+    <string name="hint_ArtistKnowName">Know Name</string>
+    <string name="btn_Buy">BUY</string>
+    <string name="btn_proceed">Proceed...</string>
+    <string name="btn_update">UPDATE</string>
+    <string name="btn_register">SEND BOOKING NOTIFICATION</string>
+    <string name="btn_addEvent">Add Your Event</string>
+    <string name="btn_viewEvent">View Your Events</string>
+    <string name="btn_addTimeline">Add Your Timeline</string>
+    <string name="btn_viewTimeline">View Your Timeline</string>
+    <string name="btn_timelineAttachment">Upload Timeline Pictures</string>
+    <string name="btnBack">Back</string>
+    <string name="welcome">Welcome</string>
+    <string name="btn_logout">LOGOUT</string>
+    <string name="name">Full name</string>
+
+    <string name="reg_email_login">Register</string>
+    <string name="hintBuyername">Full Name</string>
+    <string name="btn_link_to_register">Sign up now.</string>
+    <string name="btn_link_to_login">Already registered! Login Me.</string>
+    <string name="btn_Register">Register</string>
+
+
+    //Dialogs
+    <string name="dialogfragment">Open DialogFragment</string>
+    <string name="progressdialogfragment">Open Alert DialogFragment</string>
+    <string name="title_activity_manage_profile_catalogue">ManageProfileCatalogueActivity</string>
+
+
+</resources>

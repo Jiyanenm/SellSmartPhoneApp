@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <group android:checkableBehavior="single">
+        <item
+            android:id="@+id/nav_manageDetails"
+            android:icon="@drawable/profile"
+            android:title="Manage My Details" />
+        <item
+            android:id="@+id/nav_ManageBookings"
+            android:icon="@drawable/booking"
+            android:title="Manage Bookings" />
+        <item
+            android:id="@+id/nav_ManageTimeline"
+            android:icon="@drawable/timeline"
+            android:title="Manage Timeline" />
+        <item
+            android:id="@+id/nav_ManageEvents"
+            android:icon="@drawable/events"
+            android:title="Manage Events" />
+
+    </group>
+
+    <item android:title="Let Friends Know About Find-Artist App">
+        <menu>
+            <item
+                android:id="@+id/nav_shareFacebook"
+                android:icon="@drawable/facebook"
+
+                android:title="Facebook" />
+            <item
+                android:id="@+id/nav_shareTwitter"
+                android:icon="@drawable/twitter"
+                android:title="Twitter" />
+
+
+        </menu>
+    </item>
+
+</menu>

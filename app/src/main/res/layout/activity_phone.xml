@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent"
+    android:orientation="vertical"
+    android:background="@color/white"
+    android:id="@+id/phones">
+
+    >
+
+    <!-- Editext for Search -->
+    <EditText android:id="@+id/inputSearch"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:hint="Search Phones..."
+        android:background="@color/input_register_bg"
+        android:layout_marginBottom="10dp"
+        android:padding="10dp"
+        android:textColor="@color/bg_screen1"
+        android:textColorHint="@color/input_register_hint"
+        android:inputType="text"/>
+
+
+    <ListView
+        android:id="@+id/list"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:divider="@color/list_devider"
+        android:background="@color/bg_register"
+        android:dividerHeight="1dp"
+        android:layout_marginBottom="60dp"
+        android:listSelector="@drawable/list_row_selector">
+
+    </ListView>
+
+</LinearLayout>

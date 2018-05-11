@@ -1,0 +1,12 @@
+<resources xmlns:android="http://schemas.android.com/apk/res/android">
+    <item name="ic_menu_camera" type="drawable">@drawable/profile</item>
+    <item name="ic_menu_gallery" type="drawable">@drawable/timeline</item>
+    <item name="ic_menu_slideshow" type="drawable">@drawable/events</item>
+    <item name="ic_menu_manage" type="drawable">@drawable/booking</item>
+
+
+
+    <item name="ic_menu_fb" type="drawable">@drawable/facebook</item>
+    <item name="ic_menu_tw" type="drawable">@drawable/twitter</item>
+    <item name="ic_menu_inst" type="drawable">@drawable/instagram</item>
+</resources>
